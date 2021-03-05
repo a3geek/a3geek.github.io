@@ -9164,6 +9164,10 @@ p.lead {
   margin-right: 1.5rem;
 }
 
+.social-icon .scale-up {
+  transform: scale(1.5);
+}
+
 .social-icons .social-icon:last-child {
   margin-right: 0;
 }
